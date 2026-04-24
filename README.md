@@ -192,10 +192,10 @@ All code and design decisions were reviewed and understood.
 
 ---
 
-##  Optional
+##  DEMO
 
-* Demo Link: (add if available)
-* Walkthrough Video: (add if available)
+* Demo Link: https://www.loom.com/share/b05cb96fe53749abaed6b4da52e86e61
+
 
 ---
 
