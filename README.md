@@ -1,7 +1,6 @@
 #  SprintDesk
 
-A lightweight Agile Project Management Tool for small teams (3–10 users).
-It helps teams organize work using a simple hierarchy:
+SprintDesk is a full-stack Agile project management tool designed for small teams (3–10 users) to efficiently organize work using a structured hierarchy: 
 
 **Project → User Story → Task**
 
@@ -17,7 +16,7 @@ It helps teams organize work using a simple hierarchy:
 ### Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sprintdesk.git
+git clone https://github.com/kaushikigithub/sprintdesk.git
 cd sprintdesk
 npm install
 npm run dev
@@ -198,6 +197,9 @@ All code and design decisions were reviewed and understood.
 
 
 ---
+### Deployment
+
+* Currently the project is not live.
 
 ##  Conclusion
 
